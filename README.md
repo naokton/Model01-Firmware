@@ -1,3 +1,16 @@
+# Modified firmware for the Keyboardio Model 01
+![layout](key-layout.png)
+
+## Mod Abstruct
+- Dvorak
+- Symmetric thumb keys
+- "Number" and "shift + number" characters to fn layer
+- Moved "led" key to far away and removed "any" key
+  - Assign shift keys instead
+  - I usually use space keys as shift modifier (Space and Shift; SandS)
+- PgUp/Down keys to fn layer
+  - brace keys to 1st layer
+
 # Keyboardio Model 01 Firmware
 
 _The default firmware for the Keyboardio Model 01_
